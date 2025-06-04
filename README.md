@@ -70,7 +70,8 @@ pnpm dev
 
 ## 🌐 **Deployment**  
 
-[![Deploy with Vercel](https://github.com/your-username/chat-sdk)]  
+![image](https://github.com/user-attachments/assets/580b4d57-8ac8-4781-b152-f5bc8a311f13)
+
 
 1-click deploy includes:  
 - Automatic database provisioning  
